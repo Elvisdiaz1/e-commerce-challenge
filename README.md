@@ -1,4 +1,4 @@
-# <E_Commerce_Challenge>
+# E_Commerce_Challenge
 
 ![badmath] https://img.shields.io/badge/MIT-blue
 
